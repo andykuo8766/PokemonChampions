@@ -248,4 +248,11 @@ README.md 會作為 Champions 開放道具與 Mega 石資料來源。
 - Champions 特有規則下的招式 / 道具價值
 - 常見假動作與誘導套路
 
-這份 Skill.md 的目的不是寫成正式攻略，而是作為之後快速判隊與選出的內部筆記。
+
+---
+
+# 參考資源
+
+- [寶可夢列表 (Champions)](https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88Champions%EF%BC%89) $\rightarrow$ 用於查證寶可夢是否在合法名單內。
+- [道具列表 (Champions)](https://wiki.52poke.com/wiki/%E9%81%93%E5%85%B7%E5%88%97%E8%A1%A8%EF%BC%88Champions%EF%BC%89) $\rightarrow$ 用於查證道具是否在開放名單內。
+
